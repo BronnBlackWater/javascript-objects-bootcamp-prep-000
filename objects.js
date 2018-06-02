@@ -1,4 +1,4 @@
-const playlist = {}
+var playlist = {}
 
 function updatePlaylist(object, artist, song) {
     return object.artist = song;
